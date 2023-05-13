@@ -5,4 +5,12 @@ Factors considered are age, sex, bmi, smoker, children, region and finally charg
 - Data source: (https://www.kaggle.com/datasets/mirichoi0218/insurance/code)
 
 
+# Predictions vs Test Data
+
+<p align="center">
+  <img src="predictions_vs_test.jpg">
+  
+</p>
+
+
 
